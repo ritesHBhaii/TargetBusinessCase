@@ -2,6 +2,7 @@
 
 Analyzed e-commerce dataset using BigQuery.
 
+For better understanding, check the dashboard.
 Tableau Dashboard link - https://public.tableau.com/app/profile/ritesh.yadav8337/viz/TargetBrazilsamplee-commerceperformacedashboard/Dashboard1?publish=yes
 
 ## Sections
