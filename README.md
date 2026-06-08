@@ -2,6 +2,8 @@
 
 Analyzed e-commerce dataset using BigQuery.
 
+Tableau Dashboard link - https://public.tableau.com/app/profile/ritesh.yadav8337/viz/TargetBrazilsamplee-commerceperformacedashboard/Dashboard1?publish=yes
+
 ## Sections
 1. EDA
 2. Order Trends
